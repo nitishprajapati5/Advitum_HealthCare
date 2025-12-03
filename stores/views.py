@@ -23,7 +23,7 @@ from datetime import date
 
 
 def first(request):
-    return render(request,'first.html')
+    return render(request,'home.html')
 
 
 
